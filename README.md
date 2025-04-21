@@ -1,4 +1,3 @@
-# Machine-Learning-Projects
 # My Machine Learning Projects
 
  This Projects includes data preprocessing, exploratory data analysis, model training, evaluation, and result visualization.
